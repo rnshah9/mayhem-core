@@ -1,7 +1,6 @@
-project: rnshah9/mayhem-core
+project: core
 target: harbour
-tests: null
 
 cmds:
-  - cmd: /repo/bin/linux/gcc/harbour @@
+  - cmd: /repo/bin/linux/gcc/harbour /test.prg
     filepath: /test.prg
