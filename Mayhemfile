@@ -2,5 +2,4 @@ project: core
 target: harbour
 
 cmds:
-  - cmd: /repo/bin/linux/gcc/harbour /test.prg
-    filepath: /test.prg
+  - cmd: /harbour @@
