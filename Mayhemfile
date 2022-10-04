@@ -1,6 +1,0 @@
-project: core
-target: harbour
-
-cmds:
-  - cmd: /harbour @@
-    filepath: /test.prg
