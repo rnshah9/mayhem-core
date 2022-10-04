@@ -1,5 +1,7 @@
 project: core
 target: harbour
+testsuite:
+  - file://tests/achoice.prg
 
 cmds:
   - cmd: /harbour @@
